@@ -2,8 +2,4 @@ Esta es la historia de Nicole Venachi.
 
 Nicole Venachi tiene 21 años, y nació en Colombia.
 
-<<<<<<< HEAD
-Hoy hablaremos de su vida y obra maestra.
-=======
-Hoy hablaremos de su vida y obra maestra.
->>>>>>> cabecera
+Hoy hablaremos de su vida y obra maestra  .
